@@ -1,0 +1,25 @@
+{
+  "name": "Ethical-Hacking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "requests": "^0.3.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narekshaghoyan/Ethical-Hacking.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narekshaghoyan/Ethical-Hacking/issues"
+  },
+  "homepage": "https://github.com/narekshaghoyan/Ethical-Hacking#readme"
+}
